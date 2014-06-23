@@ -3,7 +3,7 @@ source "http://rubygems.org"
 gem 'statsample', '>=1.2.0'
 # Add dependencies required to use your gem here.
 # Example:
-   gem "activesupport", "= 3.2.10"
+   gem "activesupport"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
